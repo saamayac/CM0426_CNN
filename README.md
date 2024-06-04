@@ -1,7 +1,3 @@
-Certainly! Here's a concise README for your GitHub repository:
-
----
-
 # Cat-Dog Classifier
 
 This repository contains a Convolutional Neural Network (CNN) implemented in Python using TensorFlow for binary image classification. The model is trained to distinguish between images containing cats and dogs.
